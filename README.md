@@ -10,7 +10,7 @@
    - [Windows](#-windows-so-)
    - [Linux](#-linux-so)
    - [MacOS](#-macos)
-- [Passo a passo](#bora-pro-passo-a-passo-)
+- [Passo a passo](#bora-pro-passo-a-passo-do-projeto)
    - [Clonando o projeto](#clonando-o-projeto-)
    - [Testes](#testes-%EF%B8%8F%EF%B8%8F)
 
