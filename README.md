@@ -37,11 +37,45 @@ Para saber mais sobre a ferramenta <a href="https://robotframework.org/"> Robot 
 
 
 ### Pré - Requisitos 🎯
-O Robot Framework é implementado usando <a href="https://www.python.org/">Python</a> e uma pré-condição para instalá-lo é tê-lo ou sua implementação alternativa <a href="https://www.pypy.org/">PyPy</a> instalada. Outra pré-condição recomendada é ter o gerenciador de pacotes <a href="https://pypi.org/project/pip/">PIP</a> disponível.
+O Robot Framework é implementado usando <a href="https://www.python.org/">Python</a> e uma pré-condição para instalar ***Robot*** é ter o Python instalado ou sua implementação alternativa <a href="https://www.pypy.org/">PyPy</a> instalada. Outra pré-condição recomendada é ter o gerenciador de pacotes <a href="https://pypi.org/project/pip/">PIP</a> disponível.
 
 Normalmente, o PIP é instalado automaticamente se você:
 - Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
 
-⁉️ Vale ressaltar que, se você estiver usando IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>, esta IDE já possue o PIP integrado e também uma fácil instalação do ***Robot***.
+⁉️ Vale ressaltar que, se você estiver usando IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>, <a href="https://code.visualstudio.com/">VSCode</a> estas IDE's já possuem o PIP integrado e também uma fácil instalação do ***Robot***.
 
 ⁉️ Robot Framework requer Python 3.6 ou mais recente. Se você precisar usar Python 2, Jython ou IronPython , poderá usar o Robot Framework 4.1.3
+
+## <p>💿 Windows S.O </p>
+
+
+
+## 💿 Linux S.O 
+
+
+
+## 💿 MacOS
+
+
+### Instalando o Robot
+Os passos a serem seguidos para os <a href="https://robotframework.org/?tab=1#getting-started"> testes </a>
+
+```bash
+pip install robotframework
+```
+
+Para verificar se a instalação foi concluída com sucesso:
+```bash
+robot --version
+```
+
+## <p>Bora pro passo a passo do projeto! 👇</p>
+### Clonando o projeto 🔀
+Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de testes unitários.
+
+- Com o terminal ainda aberto, navegue até a pasta onde deseja salvar o projeto e cole o seguinte comando:
+```bash
+git clone https://github.com/INTLPiva/Testes-Robot-Framework.git
+```
+
+**Pronto, tudo configurado! Agora é só escolher o seu IDE que preferir.** </p>
