@@ -21,8 +21,8 @@ Projeto desenvolvido para o seminário da matéria Engenharia de software(C214) 
 Na realização deste seminário, foi utilizada a ferramenta **Robot Framework**, visando a criação de testes unitários, e para isso foi criado alguns testes que pode ser baseado em  Python, Java ou muitas outras linguagens de programação.
 
 # IDE e Framework:
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)||
-[![Robot Framewor](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+   [![Robot Framewor](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)
 
 
 ## Equipe
