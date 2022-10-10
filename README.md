@@ -47,15 +47,50 @@ Normalmente, o PIP é instalado automaticamente se você:
 ⁉️ Robot Framework requer Python 3.6 ou mais recente. Se você precisar usar Python 2, Jython ou IronPython , poderá usar o Robot Framework 4.1.3
 
 ## <p>💿 Windows S.O </p>
+<p>⚠️Antes de tudo, você pode usar o CMD do Windows ou até mesmo o <a href="https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/">Git</a> Bash para isso ⚠️</p>
 
+<p>Step 1: Rode o seguinte comando para baixar o arquivo "get-pip.py": </p>
 
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+```
+
+<p>Step 2: Instalando PIP no windows: </p>
+
+```bash
+python(ou py) get-pip.py
+```
+
+<p>Step 3: Adicione PIP nas suas <a href="https://www.noticiastecnicas.com/variaveis-de-ambiente-do-sistema-e-do-usuario-no-windows-explicadas/">variáveis de ambiente</a> do Windows, para poder rodar o comando de qualquer lugar. </p>
+
+#### Versão e atualização
+- Para verificar se instalou corretamente e saber sua versão, rode o seguinte comando:
+```bash
+pip --version
+```
+
+- Para atualizar sua versão do PIP, rode o seguinte comando:
+```bash
+python -m pip install --upgrade pip
+```
 
 ## 💿 Linux S.O 
 
+Você pode seguir o step do <a href ="https://python.org.br/instalacao-linux/">python.org </a> para instalação do Python em Linux
 
+### Instalando o Pytest
+Step 1: 
+```bash
+sudo apt-get update
+```
+
+Step 2:
+```bash
+sudo apt-get install python-pytest
+```
 
 ## 💿 MacOS
-
+Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">python.org </a> para instalação do Python em MacOS
 
 ### Instalando o Robot
 Os passos a serem seguidos para os <a href="https://robotframework.org/?tab=1#getting-started"> testes </a>
