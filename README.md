@@ -87,4 +87,7 @@ git clone https://github.com/INTLPiva/Testes-Robot-Framework.git
 
 ```
 
+- 2º (Rodar um arquivo de teste específico):
+```bash
 
+```
