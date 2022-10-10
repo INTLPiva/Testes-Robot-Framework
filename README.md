@@ -108,12 +108,14 @@ git clone https://github.com/INTLPiva/Testes-Robot-Framework.git
 
 ### Testes ☑️✖️
 #### Para realização dos testes, 2 comandos podem ser feitos:
-- 1º (Rodar todos os arquivos de teste):
+- 1) Rodar todos os arquivos de teste:
 ```bash
 robot .
 ```
 
-- 2º (Rodar um arquivo de teste específico):
+- 2) Rodar um arquivo de teste específico:
 ```bash
 robot resource.robot
 ```
+
+-	:bangbang: OBS: Para rodar o arquivo de teste especifico, basta colocar robot <nome_do_arquivo> 
