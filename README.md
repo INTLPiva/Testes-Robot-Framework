@@ -28,7 +28,7 @@ Na realização deste seminário, foi utilizada a ferramenta **Robot Framework**
 
 ## Equipe
 - **Alvaro Breno** - Link Github: [Alvaro Breno](https://www.github.com/AlvaroBreno)
-- **Fernando** - Link Github: [Fernando]()
+- **Fernando** - Link Github: [Fernando](https://github.com/fernandoramborger)
 - **Lucas Piva** - Link Github: [Lucas Piva](https://github.com/INTLPiva)
 - **Tulio Volpato** - Link Github: [Tulio Volpato](https://github.com/tuliovolpato)
 
