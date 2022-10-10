@@ -3,7 +3,7 @@
 ## Menu
 
 - [Sobre o Projeto](#sobre-o-projeto)
-   -[IDE e Framework](IDE-e-framework)
+   - [IDE e Framework](#IDE-e-framework)
 - [Equipe](#equipe)
 - [Instalação](#instalação-das-ferramentas-necessárias-%EF%B8%8F)
    - [Pré-requisitos](#pré---requisitos-)
@@ -28,7 +28,7 @@ Na realização deste seminário, foi utilizada a ferramenta **Robot Framework**
 ## Equipe
 - **Alvaro Breno** - Link Github: [Alvaro Breno](https://www.github.com/AlvaroBreno)
 - **Fernando** - Link Github: [Fernando]()
-- **Lucas Piva* - Link Github: [Lucas Piva](https://github.com/INTLPiva)
+- **Lucas Piva** - Link Github: [Lucas Piva](https://github.com/INTLPiva)
 - **Tulio Volpato** - Link Github: [Tulio Volpato]()
 
 
@@ -37,3 +37,9 @@ Para saber mais sobre a ferramenta <a href="https://robotframework.org/"> Robot 
 
 
 ### Pré - Requisitos 🎯
+O Robot Framework é implementado usando <a href="https://www.python.org/">Python</a> e uma pré-condição para instalá-lo é tê-lo ou sua implementação alternativa <a href="https://www.pypy.org/">PyPy</a> instalada. Outra pré-condição recomendada é ter o gerenciador de pacotes <a href="https://pypi.org/project/pip/">PIP</a> disponível.
+Normalmente, o PIP é instalado automaticamente se você:
+- Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
+⁉️ Vale ressaltar que, se você estiver usando IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>, esta IDE já possue o PIP integrado e também uma fácil instalação do ** *Robot* **.
+
+Robot Framework requer Python 3.6 ou mais recente. Se você precisar usar Python 2, Jython ou IronPython , poderá usar o Robot Framework 4.1.3
