@@ -115,7 +115,7 @@ robot .
 
 - 2) Rodar um arquivo de teste específico:
 ```bash
-robot resource.robot
+robot suite.robot
 ```
 
 -	:bangbang: OBS: Para rodar o arquivo de teste especifico, basta colocar robot <nome_do_arquivo> 
