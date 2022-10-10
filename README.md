@@ -44,4 +44,4 @@ Normalmente, o PIP é instalado automaticamente se você:
 
 ⁉️ Vale ressaltar que, se você estiver usando IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a>, esta IDE já possue o PIP integrado e também uma fácil instalação do ***Robot***.
 
-Robot Framework requer Python 3.6 ou mais recente. Se você precisar usar Python 2, Jython ou IronPython , poderá usar o Robot Framework 4.1.3
+⁉️ Robot Framework requer Python 3.6 ou mais recente. Se você precisar usar Python 2, Jython ou IronPython , poderá usar o Robot Framework 4.1.3
