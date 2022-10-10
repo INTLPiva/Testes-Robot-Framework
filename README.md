@@ -79,3 +79,12 @@ git clone https://github.com/INTLPiva/Testes-Robot-Framework.git
 ```
 
 **Pronto, tudo configurado! Agora é só escolher o seu IDE que preferir.** </p>
+
+### Testes ☑️✖️
+#### Para realização dos testes, 3 comandos podem ser feitos:
+- 1º (Rodar todos os arquivos de teste):
+```bash
+
+```
+
+
