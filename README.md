@@ -78,16 +78,6 @@ python -m pip install --upgrade pip
 
 Você pode seguir o step do <a href ="https://python.org.br/instalacao-linux/">python.org </a> para instalação do Python em Linux
 
-### Instalando o Pytest
-Step 1: 
-```bash
-sudo apt-get update
-```
-
-Step 2:
-```bash
-sudo apt-get install python-pytest
-```
 
 ## 💿 MacOS
 Você pode seguir o step do <a href ="https://python.org.br/instalacao-mac/">python.org </a> para instalação do Python em MacOS
