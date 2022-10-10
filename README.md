@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, world Dev!💻 </h1>
 
+[![CI Robot](https://github.com/INTLPiva/Testes-Robot-Framework/actions/workflows/blank.yml/badge.svg)](https://github.com/INTLPiva/Testes-Robot-Framework/actions/workflows/blank.yml)
+
 ## Menu
 
 - [Sobre o Projeto](#sobre-o-projeto)
