@@ -9,6 +9,9 @@ ${URL}        http://automationpractice.com/index.php
 Acessar a página home do site da loja
     Open Browser    url=${URL}    browser=${BROWSER}
 
+Maximizar Janela
+    Maximize Browser Window
+
 Digitar o produto "${PRODUTO}" no campo de pesquisa
     Input Text    id=search_query_top    ${PRODUTO}
 
