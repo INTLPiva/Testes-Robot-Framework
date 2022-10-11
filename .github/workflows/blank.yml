@@ -15,7 +15,7 @@ on:
 
 defaults:
   run:
-    working-directory: webTesting
+    working-directory: pythonTesting
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -31,5 +31,5 @@ jobs:
       - name: Robot install
         run: pip install robotframework
       - name: testes
-        run: robot suite.robot
+        run: robot test.robot
       
